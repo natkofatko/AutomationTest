@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25553" started-at="2018-07-25T02:03:22Z" finished-at="2018-07-25T02:03:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25553" started-at="2018-07-25T02:03:22Z" finished-at="2018-07-25T02:03:48Z">
+      <class name="testCAses.verifyLoginPage2WithReports">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCAses.verifyLoginPage2WithReports@1593948d]" name="setUp" is-config="true" duration-ms="5864" started-at="2018-07-24T22:03:22Z" finished-at="2018-07-24T22:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPage()[pri:0, instance:testCAses.verifyLoginPage2WithReports@1593948d]" name="testPage" duration-ms="18548" started-at="2018-07-24T22:03:28Z" finished-at="2018-07-24T22:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testCAses.verifyLoginPage2WithReports@1593948d]" name="TearDown" is-config="true" duration-ms="1125" started-at="2018-07-24T22:03:47Z" finished-at="2018-07-24T22:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testCAses.verifyLoginPage2WithReports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
